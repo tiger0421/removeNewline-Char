@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['rmn.py'],
-             pathex=['/home/taishiyamamoto/removeNewline-Char'],
+             pathex=['C:\\Users\\taishi\\removeNewline-Char'],
              binaries=[],
              datas=[],
              hiddenimports=[],
